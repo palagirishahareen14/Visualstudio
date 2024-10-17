@@ -1,1 +1,2 @@
 THIS IS THE SAMPLE FILE .
+merge GIT hub
